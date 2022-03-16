@@ -30,6 +30,7 @@ fBodyAccMag
 fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
+changed here
 
 Other vectors were created by signal averaging in a signal window sample. The output is the angle() vectors:
 
